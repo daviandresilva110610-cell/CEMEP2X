@@ -1,0 +1,10 @@
+C:\Users\doc\Desktop\davi_Teorema\davi_Teorema\bin\Debug\davi_Teorema.exe.config
+C:\Users\doc\Desktop\davi_Teorema\davi_Teorema\bin\Debug\davi_Teorema.exe
+C:\Users\doc\Desktop\davi_Teorema\davi_Teorema\bin\Debug\davi_Teorema.pdb
+C:\Users\doc\Desktop\davi_Teorema\davi_Teorema\obj\Debug\davi_Teorema.csproj.AssemblyReference.cache
+C:\Users\doc\Desktop\davi_Teorema\davi_Teorema\obj\Debug\davi_Teorema.Cá.resources
+C:\Users\doc\Desktop\davi_Teorema\davi_Teorema\obj\Debug\davi_Teorema.Properties.Resources.resources
+C:\Users\doc\Desktop\davi_Teorema\davi_Teorema\obj\Debug\davi_Teorema.csproj.GenerateResource.cache
+C:\Users\doc\Desktop\davi_Teorema\davi_Teorema\obj\Debug\davi_Teorema.csproj.CoreCompileInputs.cache
+C:\Users\doc\Desktop\davi_Teorema\davi_Teorema\obj\Debug\davi_Teorema.exe
+C:\Users\doc\Desktop\davi_Teorema\davi_Teorema\obj\Debug\davi_Teorema.pdb

@@ -1,0 +1,10 @@
+C:\Users\doc\source\repos\raiz_potencia\raiz_potencia\obj\Debug\raiz_potencia.csproj.AssemblyReference.cache
+C:\Users\doc\source\repos\raiz_potencia\raiz_potencia\obj\Debug\raiz_potencia.Form1.resources
+C:\Users\doc\source\repos\raiz_potencia\raiz_potencia\obj\Debug\raiz_potencia.Properties.Resources.resources
+C:\Users\doc\source\repos\raiz_potencia\raiz_potencia\obj\Debug\raiz_potencia.csproj.GenerateResource.cache
+C:\Users\doc\source\repos\raiz_potencia\raiz_potencia\obj\Debug\raiz_potencia.csproj.CoreCompileInputs.cache
+C:\Users\doc\source\repos\raiz_potencia\raiz_potencia\bin\Debug\raiz_potencia.exe.config
+C:\Users\doc\source\repos\raiz_potencia\raiz_potencia\bin\Debug\raiz_potencia.exe
+C:\Users\doc\source\repos\raiz_potencia\raiz_potencia\bin\Debug\raiz_potencia.pdb
+C:\Users\doc\source\repos\raiz_potencia\raiz_potencia\obj\Debug\raiz_potencia.exe
+C:\Users\doc\source\repos\raiz_potencia\raiz_potencia\obj\Debug\raiz_potencia.pdb

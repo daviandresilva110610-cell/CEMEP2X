@@ -1,0 +1,10 @@
+C:\Users\doc\Desktop\Votacao.Programa\Votacao.Programa\bin\Debug\Votacao.Programa.exe.config
+C:\Users\doc\Desktop\Votacao.Programa\Votacao.Programa\bin\Debug\Votacao.Programa.exe
+C:\Users\doc\Desktop\Votacao.Programa\Votacao.Programa\bin\Debug\Votacao.Programa.pdb
+C:\Users\doc\Desktop\Votacao.Programa\Votacao.Programa\obj\Debug\Votacao.Programa.csproj.AssemblyReference.cache
+C:\Users\doc\Desktop\Votacao.Programa\Votacao.Programa\obj\Debug\Votacao.Programa.Properties.Resources.resources
+C:\Users\doc\Desktop\Votacao.Programa\Votacao.Programa\obj\Debug\Votacao.Programa.csproj.GenerateResource.cache
+C:\Users\doc\Desktop\Votacao.Programa\Votacao.Programa\obj\Debug\Votacao.Programa.csproj.CoreCompileInputs.cache
+C:\Users\doc\Desktop\Votacao.Programa\Votacao.Programa\obj\Debug\Votacao.Programa.exe
+C:\Users\doc\Desktop\Votacao.Programa\Votacao.Programa\obj\Debug\Votacao.Programa.pdb
+C:\Users\doc\Desktop\Votacao.Programa\Votacao.Programa\obj\Debug\Votacao.Programa.frmeleicao.resources

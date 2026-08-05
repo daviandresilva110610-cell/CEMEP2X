@@ -1,0 +1,20 @@
+D:\CEMEP\2°X\TÉCNICO\TPV - Mirella\2º BIMESTRE\Tipos_de_Triangulos\Tipos_de_Triangulos\bin\Debug\Tipos_de_Triangulos.exe.config
+D:\CEMEP\2°X\TÉCNICO\TPV - Mirella\2º BIMESTRE\Tipos_de_Triangulos\Tipos_de_Triangulos\bin\Debug\Tipos_de_Triangulos.exe
+D:\CEMEP\2°X\TÉCNICO\TPV - Mirella\2º BIMESTRE\Tipos_de_Triangulos\Tipos_de_Triangulos\bin\Debug\Tipos_de_Triangulos.pdb
+D:\CEMEP\2°X\TÉCNICO\TPV - Mirella\2º BIMESTRE\Tipos_de_Triangulos\Tipos_de_Triangulos\obj\Debug\Tipos_de_Triangulos.csproj.AssemblyReference.cache
+D:\CEMEP\2°X\TÉCNICO\TPV - Mirella\2º BIMESTRE\Tipos_de_Triangulos\Tipos_de_Triangulos\obj\Debug\Tipos_de_Triangulos.FrmTriangulo.resources
+D:\CEMEP\2°X\TÉCNICO\TPV - Mirella\2º BIMESTRE\Tipos_de_Triangulos\Tipos_de_Triangulos\obj\Debug\Tipos_de_Triangulos.Properties.Resources.resources
+D:\CEMEP\2°X\TÉCNICO\TPV - Mirella\2º BIMESTRE\Tipos_de_Triangulos\Tipos_de_Triangulos\obj\Debug\Tipos_de_Triangulos.csproj.GenerateResource.cache
+D:\CEMEP\2°X\TÉCNICO\TPV - Mirella\2º BIMESTRE\Tipos_de_Triangulos\Tipos_de_Triangulos\obj\Debug\Tipos_de_Triangulos.csproj.CoreCompileInputs.cache
+D:\CEMEP\2°X\TÉCNICO\TPV - Mirella\2º BIMESTRE\Tipos_de_Triangulos\Tipos_de_Triangulos\obj\Debug\Tipos_de_Triangulos.exe
+D:\CEMEP\2°X\TÉCNICO\TPV - Mirella\2º BIMESTRE\Tipos_de_Triangulos\Tipos_de_Triangulos\obj\Debug\Tipos_de_Triangulos.pdb
+C:\Users\doc\Desktop\Tipos_de_Triangulos\Tipos_de_Triangulos\bin\Debug\Tipos_de_Triangulos.exe.config
+C:\Users\doc\Desktop\Tipos_de_Triangulos\Tipos_de_Triangulos\bin\Debug\Tipos_de_Triangulos.exe
+C:\Users\doc\Desktop\Tipos_de_Triangulos\Tipos_de_Triangulos\bin\Debug\Tipos_de_Triangulos.pdb
+C:\Users\doc\Desktop\Tipos_de_Triangulos\Tipos_de_Triangulos\obj\Debug\Tipos_de_Triangulos.csproj.AssemblyReference.cache
+C:\Users\doc\Desktop\Tipos_de_Triangulos\Tipos_de_Triangulos\obj\Debug\Tipos_de_Triangulos.FrmTriangulo.resources
+C:\Users\doc\Desktop\Tipos_de_Triangulos\Tipos_de_Triangulos\obj\Debug\Tipos_de_Triangulos.Properties.Resources.resources
+C:\Users\doc\Desktop\Tipos_de_Triangulos\Tipos_de_Triangulos\obj\Debug\Tipos_de_Triangulos.csproj.GenerateResource.cache
+C:\Users\doc\Desktop\Tipos_de_Triangulos\Tipos_de_Triangulos\obj\Debug\Tipos_de_Triangulos.csproj.CoreCompileInputs.cache
+C:\Users\doc\Desktop\Tipos_de_Triangulos\Tipos_de_Triangulos\obj\Debug\Tipos_de_Triangulos.exe
+C:\Users\doc\Desktop\Tipos_de_Triangulos\Tipos_de_Triangulos\obj\Debug\Tipos_de_Triangulos.pdb

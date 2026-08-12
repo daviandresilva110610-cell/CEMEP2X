@@ -33,11 +33,17 @@ while cont != "N":
         idadeh = idadeh+idade
         
     cont = input("Deseja continuar?[S]SIM [N]NÃO:").upper()
+    
+if(qhomens >= 1):
+    mediah = idadeh/qhomens
+    print("Total de homens:", qhomens)
+    print("Média idade homens:", mediah)
+else:
+    print("Homens não foram cadastrados!")
 
-mediah = idadeh/qhomens
-mediam = pesom/qmulheres
-
-print("Total de homens:", qhomens)
-print("Total mulheres:", qmulheres)
-print("Média idade homens:", mediah)
-print("Média peso mulheres:", mediam)
+if(qmulheres >= 1):
+    mediam = pesom/qmulheres
+    print("Total mulheres:", qmulheres)
+    print("Média peso mulheres:", mediam)
+else:
+    print("Mulheres não foram cadastradas!")

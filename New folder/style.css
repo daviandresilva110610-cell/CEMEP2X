@@ -1,0 +1,624 @@
+:root {
+    --bg-main: #060a12;
+    --bg-surface: rgba(255, 255, 255, 0.03);
+    --bg-surface-hover: rgba(255, 255, 255, 0.06);
+    --primary: #38bdf8;
+    --primary-hover: #0284c7;
+    --primary-glow: rgba(56, 189, 248, 0.25);
+    --text-primary: #f8fafc;
+    --text-secondary: #94a3b8;
+    --border: rgba(255, 255, 255, 0.08);
+    --border-highlight: rgba(56, 189, 248, 0.4);
+    --radius-sm: 8px;
+    --radius-md: 16px;
+    --radius-lg: 24px;
+    --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* RESET E BASE */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+    font-size: 16px;
+}
+
+body {
+    background-color: var(--bg-main);
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    color: var(--text-primary);
+    line-height: 1.6;
+    padding-top: 80px;
+    -webkit-font-smoothing: antialiased;
+}
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 24px;
+}
+
+/* CABEÇALHO */
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 80px;
+    background-color: rgba(6, 10, 18, 0.85);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--border);
+    z-index: 1000;
+}
+
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 24px;
+}
+
+.logo {
+    height: 90px;
+    width: auto;
+    display: block;
+    transition: var(--transition);
+}
+
+.logo:hover {
+    transform: scale(1.03);
+}
+
+.nav-list {
+    display: flex;
+    gap: 32px;
+    list-style: none;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: var(--text-secondary);
+    font-weight: 500;
+    font-size: 0.95rem;
+    transition: var(--transition);
+}
+
+.nav-link:hover {
+    color: var(--text-primary);
+}
+
+/* BOTÕES */
+.btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 12px 24px;
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: 0.95rem;
+    text-decoration: none;
+    transition: var(--transition);
+    cursor: pointer;
+}
+
+.btn-primary {
+    background-color: var(--primary);
+    color: var(--bg-main);
+    box-shadow: 0 4px 20px var(--primary-glow);
+}
+
+.btn-primary:hover {
+    background-color: #7dd3fc;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 25px rgba(56, 189, 248, 0.4);
+}
+
+.btn-outline {
+    border: 1px solid var(--primary);
+    color: var(--primary);
+    background: transparent;
+}
+
+.btn-outline:hover {
+    background-color: var(--primary);
+    color: var(--bg-main);
+}
+
+.menu-toggle {
+    display: none;
+    background: none;
+    border: none;
+    color: var(--text-primary);
+    cursor: pointer;
+}
+
+/* HERO SECTION */
+.hero {
+    padding: 120px 0 80px;
+    background: radial-gradient(circle at 50% 0%, var(--primary-glow) 0%, transparent 60%);
+    text-align: center;
+}
+
+.hero-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: rgba(56, 189, 248, 0.08);
+    border: 1px solid rgba(56, 189, 248, 0.2);
+    color: var(--primary);
+    padding: 6px 16px;
+    border-radius: 50px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 24px;
+}
+
+.badge-icon {
+    width: 16px;
+    height: 16px;
+}
+
+.hero-title {
+    font-size: clamp(2.5rem, 5vw, 4rem);
+    font-weight: 800;
+    line-height: 1.1;
+    margin-bottom: 20px;
+    background: linear-gradient(180deg, #ffffff 0%, #94a3b8 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    max-width: 800px;
+}
+
+.hero-description {
+    font-size: clamp(1.05rem, 2vw, 1.25rem);
+    color: var(--text-secondary);
+    max-width: 620px;
+    margin-bottom: 36px;
+}
+
+/* SEÇÕES GERAIS */
+.section {
+    padding: 90px 0;
+}
+
+.section-header {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.titulo-secao {
+    font-size: clamp(1.8rem, 3.5vw, 2.4rem);
+    font-weight: 700;
+    margin-bottom: 12px;
+}
+
+.subtitulo-secao {
+    color: var(--text-secondary);
+    font-size: 1.05rem;
+}
+
+/* CARROSSEL DE VEÍCULOS (FROTA) */
+.frota {
+    background: linear-gradient(180deg, rgba(6, 10, 18, 1) 0%, rgba(15, 23, 42, 0.4) 50%, rgba(6, 10, 18, 1) 100%);
+}
+
+.carousel-container {
+    position: relative;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.carousel-track-container {
+    overflow: hidden;
+    border-radius: var(--radius-lg);
+}
+
+.carousel-track {
+    display: flex;
+    transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+    list-style: none;
+}
+
+.carousel-slide {
+    min-width: 100%;
+    box-sizing: border-box;
+}
+
+.car-card {
+    background: var(--bg-surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 40px 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    backdrop-filter: blur(10px);
+    transition: var(--transition);
+}
+
+.car-card:hover {
+    border-color: var(--border-highlight);
+    background: var(--bg-surface-hover);
+    box-shadow: 0 10px 30px -10px var(--primary-glow);
+}
+
+.car-image-wrapper {
+    width: 100%;
+    max-width: 500px;
+    height: 260px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 24px;
+}
+
+.car-png {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    filter: drop-shadow(0 20px 20px rgba(0, 0, 0, 0.7));
+    transition: transform 0.4s ease;
+}
+
+.car-card:hover .car-png {
+    transform: scale(1.06) translateY(-4px);
+}
+
+.car-tag {
+    background: rgba(56, 189, 248, 0.1);
+    border: 1px solid rgba(56, 189, 248, 0.25);
+    color: var(--primary);
+    padding: 4px 14px;
+    border-radius: 50px;
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 12px;
+}
+
+.car-title {
+    font-size: 1.6rem;
+    font-weight: 700;
+    margin-bottom: 10px;
+    color: var(--text-primary);
+}
+
+.car-desc {
+    color: var(--text-secondary);
+    font-size: 0.95rem;
+    max-width: 520px;
+}
+
+/* SETAS DO CARROSSEL */
+.carousel-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: var(--bg-surface);
+    border: 1px solid var(--border);
+    color: var(--text-primary);
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    z-index: 10;
+    transition: var(--transition);
+    backdrop-filter: blur(8px);
+}
+
+.carousel-btn:hover {
+    background: var(--primary);
+    color: var(--bg-main);
+    border-color: var(--primary);
+    box-shadow: 0 0 20px var(--primary-glow);
+}
+
+.prev-btn { left: -15px; }
+.next-btn { right: -15px; }
+
+/* DOTS / INDICADORES */
+.carousel-nav {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 24px;
+}
+
+.carousel-indicator {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: var(--border);
+    border: none;
+    cursor: pointer;
+    transition: var(--transition);
+}
+
+.carousel-indicator.active {
+    background-color: var(--primary);
+    width: 30px;
+    border-radius: 50px;
+    box-shadow: 0 0 10px var(--primary-glow);
+}
+
+/* SOBRE */
+.sobre-card {
+    background: var(--bg-surface);
+    border: 1px solid var(--border);
+    padding: 40px;
+    border-radius: var(--radius-lg);
+    max-width: 850px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.sobre-texto {
+    font-size: 1.15rem;
+    color: var(--text-secondary);
+    line-height: 1.8;
+}
+
+/* COMO FUNCIONA (GRID DE CARDS) */
+.cards-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 24px;
+}
+
+.card {
+    background: var(--bg-surface);
+    border: 1px solid var(--border);
+    padding: 32px;
+    border-radius: var(--radius-md);
+    transition: var(--transition);
+}
+
+.card:hover {
+    transform: translateY(-6px);
+    border-color: var(--border-highlight);
+    background: var(--bg-surface-hover);
+}
+
+.card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.card-step {
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: var(--primary);
+    background: rgba(56, 189, 248, 0.1);
+    padding: 4px 12px;
+    border-radius: 50px;
+}
+
+.card-icon {
+    width: 28px;
+    height: 28px;
+    color: var(--primary);
+}
+
+.card h3 {
+    font-size: 1.25rem;
+    margin-bottom: 10px;
+}
+
+.card p {
+    color: var(--text-secondary);
+    font-size: 0.95rem;
+}
+
+/* DÚVIDAS (FAQ ACCORDION) */
+.faq-accordion {
+    max-width: 750px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.faq-item {
+    background: var(--bg-surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    overflow: hidden;
+    transition: var(--transition);
+}
+
+.faq-item[open] {
+    border-color: var(--border-highlight);
+}
+
+.faq-question {
+    padding: 20px 24px;
+    font-weight: 600;
+    font-size: 1.05rem;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+}
+
+.faq-question::-webkit-details-marker {
+    display: none;
+}
+
+.faq-icon {
+    width: 20px;
+    height: 20px;
+    color: var(--primary);
+    transition: transform 0.3s ease;
+}
+
+.faq-item[open] .faq-icon {
+    transform: rotate(180deg);
+}
+
+.faq-answer {
+    padding: 0 24px 20px 24px;
+    color: var(--text-secondary);
+    font-size: 0.95rem;
+}
+
+/* CONTATO */
+.contato-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 24px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.contato-card {
+    background: var(--bg-surface);
+    border: 1px solid var(--border);
+    padding: 32px;
+    border-radius: var(--radius-md);
+    text-align: center;
+    text-decoration: none;
+    color: inherit;
+    transition: var(--transition);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contato-card:hover {
+    transform: translateY(-4px);
+    border-color: var(--border-highlight);
+    background: var(--bg-surface-hover);
+}
+
+.contato-icon-wrapper {
+    width: 48px;
+    height: 48px;
+    background: rgba(56, 189, 248, 0.1);
+    color: var(--primary);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 16px;
+}
+
+.contato-label {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 4px;
+}
+
+.contato-value {
+    font-size: 1.05rem;
+    font-weight: 600;
+}
+
+/* RODAPÉ */
+.footer {
+    border-top: 1px solid var(--border);
+    padding: 32px 0;
+    text-align: center;
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+}
+
+/* RESPONSIVIDADE (MOBILE) */
+@media (max-width: 868px) {
+    .logo {
+        height: 70px;
+    }
+    .header-cta {
+        display: none;
+    }
+
+    .menu-toggle {
+        display: block;
+    }
+
+    .icon-close {
+        display: none;
+    }
+
+    .menu-toggle.active .icon-open {
+        display: none;
+    }
+
+    .menu-toggle.active .icon-close {
+        display: block;
+    }
+
+    .nav-menu {
+        position: fixed;
+        top: 80px;
+        left: 0;
+        width: 100%;
+        background-color: var(--bg-main);
+        border-bottom: 1px solid var(--border);
+        padding: 24px 0;
+        display: none;
+    }
+
+    .nav-menu.active {
+        display: block;
+    }
+
+    .nav-list {
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+
+    /* Carrossel Ajustes Mobile */
+    .carousel-container {
+        padding: 0 5px;
+    }
+
+    .carousel-btn {
+        width: 38px;
+        height: 38px;
+    }
+
+    .prev-btn { left: 0px; }
+    .next-btn { right: 0px; }
+
+    .car-card {
+        padding: 30px 15px;
+    }
+
+    .car-image-wrapper {
+        height: 180px;
+    }
+
+    .car-title {
+        font-size: 1.3rem;
+    }
+}

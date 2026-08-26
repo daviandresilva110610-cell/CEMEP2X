@@ -68,8 +68,12 @@ print(f"Quantidade de pessoas solteiras: {total_solteiros}")
 if total_viuvos > 0:
     media_viuvos = soma_idade_viuvos / total_viuvos
     print(f"Média de idade das pessoas viúvas:",media_viuvos," anos")
+else:
+    print(f"Média de idade das pessoas viúvas: 0 anos")
 
 
 if total_pessoas > 0:
     porcentagem_desquitados = (total_desquitados / total_pessoas) * 100
     print(f"Porcentagem de pessoas desquitadas/separadas:",porcentagem_desquitados,"%")
+else:
+    print(f"Porcentagem de pessoas desquitadas/separadas: 0 %")

@@ -1,0 +1,25 @@
+C:\Users\doc\Desktop\Calculo\Calculo\bin\Debug\Calculo.exe.config
+C:\Users\doc\Desktop\Calculo\Calculo\bin\Debug\Calculo.exe
+C:\Users\doc\Desktop\Calculo\Calculo\bin\Debug\Calculo.pdb
+C:\Users\doc\Desktop\Calculo\Calculo\obj\Debug\Calculo.csproj.AssemblyReference.cache
+C:\Users\doc\Desktop\Calculo\Calculo\obj\Debug\Calculo.FrmSalarioBruto.resources
+C:\Users\doc\Desktop\Calculo\Calculo\obj\Debug\Calculo.FrmSplash.resources
+C:\Users\doc\Desktop\Calculo\Calculo\obj\Debug\Calculo.Properties.Resources.resources
+C:\Users\doc\Desktop\Calculo\Calculo\obj\Debug\Calculo.csproj.GenerateResource.cache
+C:\Users\doc\Desktop\Calculo\Calculo\obj\Debug\Calculo.csproj.CoreCompileInputs.cache
+C:\Users\doc\Desktop\Calculo\Calculo\obj\Debug\Calculo.exe
+C:\Users\doc\Desktop\Calculo\Calculo\obj\Debug\Calculo.pdb
+C:\Users\doc\Desktop\Calculo\Calculo\obj\Debug\Calculo.FrmLogin.resources
+C:\Users\doc\Desktop\daviandresilva110610-cell CEMEP2X b07e618e2fd8dd33b94e0631f844cd7ca7e5203b TPV-2ºBIMESTRE_Calculo\Calculo\bin\Debug\Calculo.exe.config
+C:\Users\doc\Desktop\daviandresilva110610-cell CEMEP2X b07e618e2fd8dd33b94e0631f844cd7ca7e5203b TPV-2ºBIMESTRE_Calculo\Calculo\bin\Debug\Calculo.exe
+C:\Users\doc\Desktop\daviandresilva110610-cell CEMEP2X b07e618e2fd8dd33b94e0631f844cd7ca7e5203b TPV-2ºBIMESTRE_Calculo\Calculo\bin\Debug\Calculo.pdb
+C:\Users\doc\Desktop\daviandresilva110610-cell CEMEP2X b07e618e2fd8dd33b94e0631f844cd7ca7e5203b TPV-2ºBIMESTRE_Calculo\Calculo\obj\Debug\Calculo.csproj.AssemblyReference.cache
+C:\Users\doc\Desktop\daviandresilva110610-cell CEMEP2X b07e618e2fd8dd33b94e0631f844cd7ca7e5203b TPV-2ºBIMESTRE_Calculo\Calculo\obj\Debug\Calculo.FrmLogin.resources
+C:\Users\doc\Desktop\daviandresilva110610-cell CEMEP2X b07e618e2fd8dd33b94e0631f844cd7ca7e5203b TPV-2ºBIMESTRE_Calculo\Calculo\obj\Debug\Calculo.FrmSalarioBruto.resources
+C:\Users\doc\Desktop\daviandresilva110610-cell CEMEP2X b07e618e2fd8dd33b94e0631f844cd7ca7e5203b TPV-2ºBIMESTRE_Calculo\Calculo\obj\Debug\Calculo.FrmSplash.resources
+C:\Users\doc\Desktop\daviandresilva110610-cell CEMEP2X b07e618e2fd8dd33b94e0631f844cd7ca7e5203b TPV-2ºBIMESTRE_Calculo\Calculo\obj\Debug\Calculo.Properties.Resources.resources
+C:\Users\doc\Desktop\daviandresilva110610-cell CEMEP2X b07e618e2fd8dd33b94e0631f844cd7ca7e5203b TPV-2ºBIMESTRE_Calculo\Calculo\obj\Debug\Calculo.csproj.GenerateResource.cache
+C:\Users\doc\Desktop\daviandresilva110610-cell CEMEP2X b07e618e2fd8dd33b94e0631f844cd7ca7e5203b TPV-2ºBIMESTRE_Calculo\Calculo\obj\Debug\Calculo.csproj.CoreCompileInputs.cache
+C:\Users\doc\Desktop\daviandresilva110610-cell CEMEP2X b07e618e2fd8dd33b94e0631f844cd7ca7e5203b TPV-2ºBIMESTRE_Calculo\Calculo\obj\Debug\Calculo.exe
+C:\Users\doc\Desktop\daviandresilva110610-cell CEMEP2X b07e618e2fd8dd33b94e0631f844cd7ca7e5203b TPV-2ºBIMESTRE_Calculo\Calculo\obj\Debug\Calculo.pdb
+C:\Users\doc\Desktop\daviandresilva110610-cell CEMEP2X b07e618e2fd8dd33b94e0631f844cd7ca7e5203b TPV-2ºBIMESTRE_Calculo\Calculo\obj\Debug\Calculo.Frmmenu.resources

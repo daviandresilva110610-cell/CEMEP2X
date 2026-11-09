@@ -1,0 +1,54 @@
+D:\CEMEP\2°X\TÉCNICO\TPV - Mirella\3º BIMESTRE\Calculos\Calculos\bin\Debug\Calculos.exe.config
+D:\CEMEP\2°X\TÉCNICO\TPV - Mirella\3º BIMESTRE\Calculos\Calculos\bin\Debug\Calculos.exe
+D:\CEMEP\2°X\TÉCNICO\TPV - Mirella\3º BIMESTRE\Calculos\Calculos\bin\Debug\Calculos.pdb
+D:\CEMEP\2°X\TÉCNICO\TPV - Mirella\3º BIMESTRE\Calculos\Calculos\obj\Debug\Calculos.csproj.AssemblyReference.cache
+D:\CEMEP\2°X\TÉCNICO\TPV - Mirella\3º BIMESTRE\Calculos\Calculos\obj\Debug\Calculos.Properties.Resources.resources
+D:\CEMEP\2°X\TÉCNICO\TPV - Mirella\3º BIMESTRE\Calculos\Calculos\obj\Debug\Calculos.csproj.GenerateResource.cache
+D:\CEMEP\2°X\TÉCNICO\TPV - Mirella\3º BIMESTRE\Calculos\Calculos\obj\Debug\Calculos.csproj.CoreCompileInputs.cache
+D:\CEMEP\2°X\TÉCNICO\TPV - Mirella\3º BIMESTRE\Calculos\Calculos\obj\Debug\Calculos.exe
+D:\CEMEP\2°X\TÉCNICO\TPV - Mirella\3º BIMESTRE\Calculos\Calculos\obj\Debug\Calculos.pdb
+D:\CEMEP\2°X\TÉCNICO\TPV - Mirella\3º BIMESTRE\Calculos\Calculos\obj\Debug\Calculos.frmSalarioBruto.resources
+D:\CEMEP\2°X\TÉCNICO\TPV - Mirella\3º BIMESTRE\Calculos\Calculos\obj\Debug\Calculos.frmSplash.resources
+D:\CEMEP\2°X\TÉCNICO\TPV - Mirella\3º BIMESTRE\Calculos\Calculos\obj\Debug\Calculos.frmLogin.resources
+D:\CEMEP\2°X\TÉCNICO\TPV - Mirella\3º BIMESTRE\Calculos\Calculos\obj\Debug\Calculos.frmMenu.resources
+D:\2026\TPV\3 bimestre\Calculos\Calculos\bin\Debug\Calculos.exe.config
+D:\2026\TPV\3 bimestre\Calculos\Calculos\bin\Debug\Calculos.exe
+D:\2026\TPV\3 bimestre\Calculos\Calculos\bin\Debug\Calculos.pdb
+D:\2026\TPV\3 bimestre\Calculos\Calculos\obj\Debug\Calculos.csproj.AssemblyReference.cache
+D:\2026\TPV\3 bimestre\Calculos\Calculos\obj\Debug\Calculos.frmSalarioBruto.resources
+D:\2026\TPV\3 bimestre\Calculos\Calculos\obj\Debug\Calculos.frmLogin.resources
+D:\2026\TPV\3 bimestre\Calculos\Calculos\obj\Debug\Calculos.frmMenu.resources
+D:\2026\TPV\3 bimestre\Calculos\Calculos\obj\Debug\Calculos.frmSplash.resources
+D:\2026\TPV\3 bimestre\Calculos\Calculos\obj\Debug\Calculos.Properties.Resources.resources
+D:\2026\TPV\3 bimestre\Calculos\Calculos\obj\Debug\Calculos.csproj.GenerateResource.cache
+D:\2026\TPV\3 bimestre\Calculos\Calculos\obj\Debug\Calculos.csproj.CoreCompileInputs.cache
+D:\2026\TPV\3 bimestre\Calculos\Calculos\obj\Debug\Calculos.exe
+D:\2026\TPV\3 bimestre\Calculos\Calculos\obj\Debug\Calculos.pdb
+D:\CEMEP\2º ano\TÉCNICO\TPV\3º Bim\Calculos\Calculos\bin\Debug\Calculos.exe.config
+D:\CEMEP\2º ano\TÉCNICO\TPV\3º Bim\Calculos\Calculos\bin\Debug\Calculos.exe
+D:\CEMEP\2º ano\TÉCNICO\TPV\3º Bim\Calculos\Calculos\bin\Debug\Calculos.pdb
+D:\CEMEP\2º ano\TÉCNICO\TPV\3º Bim\Calculos\Calculos\obj\Debug\Calculos.csproj.AssemblyReference.cache
+D:\CEMEP\2º ano\TÉCNICO\TPV\3º Bim\Calculos\Calculos\obj\Debug\Calculos.frmSalarioBruto.resources
+D:\CEMEP\2º ano\TÉCNICO\TPV\3º Bim\Calculos\Calculos\obj\Debug\Calculos.frmLogin.resources
+D:\CEMEP\2º ano\TÉCNICO\TPV\3º Bim\Calculos\Calculos\obj\Debug\Calculos.frmMenu.resources
+D:\CEMEP\2º ano\TÉCNICO\TPV\3º Bim\Calculos\Calculos\obj\Debug\Calculos.Properties.Resources.resources
+D:\CEMEP\2º ano\TÉCNICO\TPV\3º Bim\Calculos\Calculos\obj\Debug\Calculos.csproj.GenerateResource.cache
+D:\CEMEP\2º ano\TÉCNICO\TPV\3º Bim\Calculos\Calculos\obj\Debug\Calculos.csproj.CoreCompileInputs.cache
+D:\CEMEP\2º ano\TÉCNICO\TPV\3º Bim\Calculos\Calculos\obj\Debug\Calculos.exe
+D:\CEMEP\2º ano\TÉCNICO\TPV\3º Bim\Calculos\Calculos\obj\Debug\Calculos.pdb
+D:\CEMEP\2º ano\TÉCNICO\TPV\3º Bim\Calculos\Calculos\obj\Debug\Calculos.ProjetoCalculos.resources
+D:\CEMEP\2º ano\TÉCNICO\TPV\3º Bim\Calculos\Calculos\obj\Debug\Calculos.FrmSalarioLiquido.resources
+C:\Users\doc\Desktop\Calculosss\Calculos\bin\Debug\Calculos.exe.config
+C:\Users\doc\Desktop\Calculosss\Calculos\bin\Debug\Calculos.exe
+C:\Users\doc\Desktop\Calculosss\Calculos\bin\Debug\Calculos.pdb
+C:\Users\doc\Desktop\Calculosss\Calculos\obj\Debug\Calculos.csproj.AssemblyReference.cache
+C:\Users\doc\Desktop\Calculosss\Calculos\obj\Debug\Calculos.frmLogin.resources
+C:\Users\doc\Desktop\Calculosss\Calculos\obj\Debug\Calculos.frmMenu.resources
+C:\Users\doc\Desktop\Calculosss\Calculos\obj\Debug\Calculos.frmsalariobruto.resources
+C:\Users\doc\Desktop\Calculosss\Calculos\obj\Debug\Calculos.FrmSalarioLiquido.resources
+C:\Users\doc\Desktop\Calculosss\Calculos\obj\Debug\Calculos.ProjetoCalculos.resources
+C:\Users\doc\Desktop\Calculosss\Calculos\obj\Debug\Calculos.Properties.Resources.resources
+C:\Users\doc\Desktop\Calculosss\Calculos\obj\Debug\Calculos.csproj.GenerateResource.cache
+C:\Users\doc\Desktop\Calculosss\Calculos\obj\Debug\Calculos.csproj.CoreCompileInputs.cache
+C:\Users\doc\Desktop\Calculosss\Calculos\obj\Debug\Calculos.exe
+C:\Users\doc\Desktop\Calculosss\Calculos\obj\Debug\Calculos.pdb
